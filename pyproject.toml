@@ -1,11 +1,10 @@
 [project]
 name = "dataanalysis-scooter-sharing-gofast"
 version = "0.1.0"
-description = "Add your description here"
+description = "Анализ данных сервиса GoFast."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "black[jupyter]>=25.12.0",
     "notebook>=7.5.1",
     "pandas>=2.3.3",
     "scipy>=1.16.3",
